@@ -16,6 +16,11 @@
 			path = PokeDexCursor;
 			sourceTree = "<group>";
 		};
+		4F2AFBE12D89B263001790D4 /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		4F2AFBBD2D89B1E9001790D4 = {
 			isa = PBXGroup;
 			children = (
+				4F2AFBE12D89B263001790D4 /* Views */,
 				4F2AFBC82D89B1EA001790D4 /* PokeDexCursor */,
 				4F2AFBC72D89B1EA001790D4 /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				4F2AFBC82D89B1EA001790D4 /* PokeDexCursor */,
+				4F2AFBE12D89B263001790D4 /* Views */,
 			);
 			name = PokeDexCursor;
 			packageProductDependencies = (
